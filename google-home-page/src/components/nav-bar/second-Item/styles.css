@@ -1,0 +1,28 @@
+.nav-bar-second-item {
+  display: flex;
+  justify-content: space-evenly;
+  gap: 25px;
+}
+
+.fa-beer {
+  color: #333;
+}
+
+.fa-search {
+  color: blue;
+  position: relative;
+  left: 45px;
+  top: 20px;
+}
+
+img {
+  position: relative;
+  bottom: 8px;
+  width: 38px;
+  height: 38px;
+  border-radius: 60%;
+  display: block;
+  position: relative;
+  border: 0;
+  margin: 0;
+}
